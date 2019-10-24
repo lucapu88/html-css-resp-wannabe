@@ -122,7 +122,7 @@ COPIARLO SEMPRE IN HTML */
 }
 
 /* LARGHEZZA COLONNE TABLET */
-@media screen and (min-width 769px) and (max-width:992px) {
+@media screen and (min-width: 769px) and (max-width:992px) {
 
 .clearfix {
   max-width: 992px;
