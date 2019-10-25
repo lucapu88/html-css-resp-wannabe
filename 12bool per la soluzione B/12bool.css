@@ -19,7 +19,6 @@ COPIARLO SEMPRE IN HTML */
 
 [class*="col-"] {
   float: left;
-  border: 1px solid black;
 }
 
 /* LARGHEZZA COLONNE DESKTOP */
